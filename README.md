@@ -13,6 +13,7 @@
 * [Data Sets ](#data-sets)
 * [Bloggers](#bloggers)
 * [Podcasts](#podcasts)
+* [Books](#books)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
@@ -99,6 +100,7 @@ Preview | Description
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+* [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 
 
 ## Data Sets
@@ -108,7 +110,7 @@ Preview | Description
 * [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 * [United States Census Bureau](http://www.census.gov/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.io](http://enigma.io/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
+* [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 * [databib.org](http://databib.org/)
@@ -253,6 +255,17 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+
+## Books
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
+- [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
 
 ## Facebook Accounts
 
